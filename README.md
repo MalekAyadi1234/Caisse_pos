@@ -1,6 +1,6 @@
 # Caisse POS
 
-Petite caisse Kotlin + Firebase, qui marche aussi sans réseau.
+POS caisse Kotlin + Firebase, with Offline mode.
 
 Android Studio → ouvrir ce dossier → suivre `docs/FIREBASE.md` → Run.
 
