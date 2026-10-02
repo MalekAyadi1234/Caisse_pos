@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caisse POS</string>
+    <string name="products">Produits</string>
+    <string name="cart">Panier</string>
+    <string name="checkout">Encaisser</string>
+    <string name="history">Historique</string>
+    <string name="empty_cart">Panier vide</string>
+    <string name="total">Total : %1$s</string>
+    <string name="qty">×%1$d</string>
+    <string name="add">+</string>
+    <string name="remove">−</string>
+    <string name="ticket_created">Ticket %1$s — %2$s</string>
+    <string name="print_pending">En attente</string>
+    <string name="print_printed">Imprimé</string>
+    <string name="print_failed">Échec</string>
+    <string name="online">En ligne</string>
+    <string name="offline">Hors ligne</string>
+    <string name="syncing">Sync…</string>
+    <string name="no_sales">Aucune vente</string>
+    <string name="retry_print">Réimprimer</string>
+    <string name="device_id">Appareil : %1$s</string>
+    <string name="clear_line">Retirer</string>
+</resources>

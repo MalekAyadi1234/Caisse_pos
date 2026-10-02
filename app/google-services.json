@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441167011567",
+    "project_id": "caisse-pos-44004",
+    "storage_bucket": "caisse-pos-44004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441167011567:android:52f15d59b47648c13d451a",
+        "android_client_info": {
+          "package_name": "com.caisse.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWAhaDtUJmfi09jSo1fHAn4DrDYAi1xw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
